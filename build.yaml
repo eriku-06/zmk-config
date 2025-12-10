@@ -20,6 +20,6 @@
 ---
 include:
   - board: nice_nano@2.0.0
-    shield: sofle_left nice_oled
+    shield: sofle_left 
   - board: nice_nano@2.0.0
-    shield: sofle_right nice_oled
+    shield: sofle_right
