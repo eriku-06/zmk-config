@@ -4,7 +4,7 @@ You can find the original wired QMK build of the same keyboard in my other keybo
 
 The hardware includes:
   - Sofle V2.1 wired kit
-  - 2x 18650 3.7V 2600mah batteries
-  - 3x Tenstar nrf52840
+  - 2x 18650 3.7V 2600mah batteries ([Jaycar](https://www.jaycar.com.au/18650-rechargeable-li-ion-battery-2600mah-3-7v/p/SB2308))
+  - 3x [Tenstar nrf52840](https://www.aliexpress.com/item/1005009890279520.html)
 
 I'm still working on designing a case that will integrate and fit the 18650 battery. 
