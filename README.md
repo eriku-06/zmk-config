@@ -1,3 +1,4 @@
+# Sofle V2.1 ZMK
 This is my ZMK wireless conversion of the Sofle V2.1. The keyboard was originally bought from [Custom KBD](https://customkbd.com/collections/sofle/products/sofle-keyboard-kit-v2-1-rgb). 
 You can find the original wired QMK build of the same keyboard in my other keyboard [repo](https://github.com/eriku-06/Sofle-V2.1-QMK-config).
 
