@@ -6,4 +6,6 @@ The hardware includes:
   - 18650 3.7V 2600mah batteries
   - Tenstar nrf52840
 
+The current build uses 3x nrf52840 MCUs with one acting as the central dongle. 
+
 I'm still working on designing a case that will integrate and fit the 18650 battery. 
