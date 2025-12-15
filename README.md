@@ -5,3 +5,5 @@ The hardware includes:
   - Sofle V2.1 wired kit
   - 18650 3.7V 2600mah batteries
   - Tenstar nrf52840
+
+I'm still working on designing a case that will integrate and fit the 18650 battery. 
