@@ -8,3 +8,5 @@ The hardware includes:
   - 3x [Tenstar nrf52840](https://www.aliexpress.com/item/1005009890279520.html)
 
 I'm still working on designing a case that will integrate and fit the 18650 battery. 
+
+The current ZMK configuration allows for ZMK studio usage.
